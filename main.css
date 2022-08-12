@@ -3,7 +3,8 @@
     color: white;
     width:100%;
     margin: 0px;
-    padding: 5px;
+    margin-left: 0px;
+    padding: 5px
     align-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
@@ -11,9 +12,11 @@
 
 .resume-top{
     text-align: center;
-    font-size: larger;
-    color:rgb(241, 198, 198);
+    font-size: xx-large;
+    color:rgb(236, 122, 122);
     font-size: x-large;
+    padding-bottom: 35px;
+    margin:auto;
 }
 
 .skill-section{
@@ -67,7 +70,7 @@
 
 .edu-cert{
     text-align: center;
-    padding-bottom: 5px;
+    padding-bottom: 45px;
     font-size: x-large;
 }
 
@@ -92,4 +95,15 @@
     align-content: center;
     overflow:hidden; 
     font-size: small;
+}
+
+li{
+    list-style: none;
+}
+
+.endof-page{
+    padding-top: 5px;
+    text-align: left;
+    align-items: center;
+    align-content: center;
 }
