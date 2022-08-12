@@ -1,0 +1,95 @@
+*{
+    background: rgb(11, 22, 33);
+    color: white;
+    width:100%;
+    margin: 0px;
+    padding: 5px;
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.resume-top{
+    text-align: center;
+    font-size: larger;
+    color:rgb(241, 198, 198);
+    font-size: x-large;
+}
+
+.skill-section{
+    text-align: center;
+}
+
+.skill-set{
+    padding: 10px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+}
+
+.exp-list{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: x-large;
+}
+
+.job-name{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+    text-align: center; 
+    font-size: larger;
+}
+
+.job-time{
+    padding: 5px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: lightgray;
+    margin: auto;
+    width: auto;
+    align-content: center;
+    overflow:hidden;
+    font-size: small;
+}
+
+.job-duties{ 
+    overflow-y:hidden;
+    overflow-x: hidden;
+}
+
+.edu-cert{
+    text-align: center;
+    padding-bottom: 5px;
+    font-size: x-large;
+}
+
+.cert-name{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+    text-align: center; 
+    font-size: large;
+}
+
+.cert-time{
+    padding: 5px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: lightgrey;
+    margin: auto;
+    width: auto;
+    align-content: center;
+    overflow:hidden; 
+    font-size: small;
+}
