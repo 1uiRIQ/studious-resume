@@ -1,0 +1,119 @@
+*{background: rgb(11, 22, 33);
+    color: white;
+    width:100%;
+    margin: 0px;
+    margin-left: 0px;
+    padding-left: 1px;
+    padding-right: 2px;
+    align-content: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.resume-top{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(236, 122, 122);
+    font-size: x-large;
+    padding-bottom: 35px;
+    margin:auto;
+}
+
+.skill-section{
+    text-align: center;
+}
+
+.skill-set{
+    padding: 10px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+}
+
+.exp-list{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: x-large;
+}
+
+.job-name{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+    text-align: center; 
+    font-size: larger;
+}
+
+.job-time{
+    padding: 5px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: lightgray;
+    margin: auto;
+    width: auto;
+    align-content: center;
+    overflow:hidden;
+    font-size: small;
+}
+
+.job-duties{ 
+    overflow-y:hidden;
+    overflow-x: hidden;
+}
+
+.edu-cert{
+    text-align: center;
+    padding-bottom: 45px;
+    font-size: x-large;
+}
+
+.cert-name{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+    text-align: center; 
+    font-size: large;
+}
+
+.cert-time{
+    padding: 5px;
+    border: 1px groove grey;
+    font-family:'Times New Roman', Times, serif;
+    color: lightgrey;
+    margin: auto;
+    width: auto;
+    align-content: center;
+    overflow:hidden; 
+    font-size: small;
+}
+
+li{
+    list-style: none;
+}
+
+.endof-page{
+    padding-top: 5px;
+    text-align: left;
+    align-items: center;
+    align-content: center;
+    padding-bottom: 40px;
+
+}
+
+.foot{
+    font-family: monospace;
+    font-size: xx-small;
+    color:aqua;
+    align-content: center;
+    text-align: center;
+    
+}
