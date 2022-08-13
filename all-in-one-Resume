@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>1ui</title>
+    <link href="stylesheets/main.css" rel="stylesheet" />
+
+<style>
 *{background: rgb(11, 22, 33);
     color: white;
     width:100%;
@@ -117,3 +125,120 @@ li{
     text-align: center;
     
 }
+</style>
+
+</head>
+<body>
+</section>
+
+    <header>
+        <hgroup>
+            <h1>1ui</h1>
+            <h2>Welcome to Luis Lopez's Website</h2>
+        </hgroup>
+    </header>
+    <!--this is the nav bar, remember to lookin into making this cleaner-->
+    <section class="resume">
+        <article>
+            <header>
+                <h1 class="resume-top">Resume</h1>
+            </header>
+<!--this is the skills part of the resume, add more skills later-->
+            <section class="skill-section">
+                Skills:
+                <div class="skill-set">
+                <p>HTML, CSS, Javascript, Visual Code Studio, PHP</p>
+                <p>Communication, Multilingual, Adaptability, Computer Skills,  Time Management</p>
+                <p>Front End Development, Organizational Skills, Customer service</p>
+                <p>Communication Skills, Microsoft Powerpoint,  Conflict Management</p>
+                </div>
+            </section>
+            
+<!--This is the experience seciton, where you input the job experience that you have-->
+            <section class="exp-list">
+                ~ Experience ~
+                <div class="job-name">
+                    <em>UberEATS / Food Courier</em>
+                    <div class="job-time">
+                        Janurary 2020 - PRESENT
+                        <ul class="job-duties">
+                            <li>•Transported food to customer through efficient means</li>
+                            <li>•Productively managed time while traveling between locations</li>
+                            <li>•Maintained positive interactions with customers</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="job-name">
+                    <em>PBS Facility Services / Doorman</em>
+                    <div class="job-time">
+                        September 2020 - January 2021
+                        <div class="job-duties">
+                        <ul>
+                            <li>•Maintained a welcoming environment for residents</li>
+                            <li>•Learned the importance of coordination</li>
+                            <li>•Fulfilled package room duties</li>
+                            <li>•Performed in a fast-paced environment effectively</li>
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-name">
+                    <em>PBS Facility Services / Security Guard</em>
+                    <div class="job-time">
+                        August 2020 - January 2021
+                        <div class="job-duties">
+                        <ul>
+                            <li>•Effectively used observation skills to perform access control duties</li>
+                            <li>•Used observation skills to maintain a safe environment</li>
+                            <li>•Worked in coordination with a team to accomplish daily patrols</li>
+                            <li>•Used specific software to log events</li>
+                            <li>•Realized the importance of due diligence</li>
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-name">
+                    <em>Inventory Associate</em>
+                    <div class="job-time">
+                            June 2015 - May 2017
+                        <div class="job-duties">
+                            <ul>
+                                <li>•Tracked the stock within the barbershop</li>
+                                <li>•Scheduled the appointments between barbers and customers</li>
+                                <li>•Janitorial duties</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+<!--This is where I'll put my education and certificates-->
+            <section class="edu-cert">
+                ~ Education ~
+                <div class="cert-name">
+                    Lehman College / Bachlears of Business Administration
+                    <div class="cert-time">
+                        August 2018 - May 2023
+                        <div class="cert-location">
+                            Bronx, New York
+                        </div>
+                    </div>
+                    
+                </div>
+            </section>
+        </article>
+
+            <section class="endof-page">
+                <h1 class="contacts">Contact Me</h1>
+                <ul class="contacts">
+                    <li><a href="mailto:lopezluis9494@gmail.com">E-mail</E-mail></a></li> 
+                    <li><a href="https://github.com/1uiRIQ">Github</a></li>
+                    <li>(929)-603-1362</li>
+                </ul>
+            </section>
+
+    </body>
+
+<footer class="foot">Luis Lopez</footer>
+
+</html>
